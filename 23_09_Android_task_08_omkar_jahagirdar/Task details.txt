@@ -1,0 +1,9 @@
+Task 08 - 23/09/2021
+Create a simple profile card app using Flutter.
+Your app must have the following things:
+1. Image of yours and your name below it
+2. Row and Column widgets
+3. Short Bio about yourself
+Besides the points mentioned above you can use any other widgets, styling, design you want. Try to explore more and more widgets. Also we are giving you a lot of time to submit the task, so give it your best shot.
+For submission, you have to follow the same guidelines, just one addition; add a screenshot of your app in the specific folder.
+Deadline for this task : 26/09/2021, 11:59 AM
