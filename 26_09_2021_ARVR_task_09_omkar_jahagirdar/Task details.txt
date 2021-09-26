@@ -1,0 +1,6 @@
+Task 09 - 26/09/2021
+Create a filter to implement cricket stadium effect.
+       Use flag image as sticker and stadium as background.
+Images are provided here as attachment
+You can try something else after cricket stadium filter (optional)
+For submissions, follow same guidelines and deadline. Submit a screenshot of your filter with .arproj file
