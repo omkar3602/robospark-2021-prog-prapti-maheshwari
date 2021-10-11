@@ -1,0 +1,9 @@
+Task 15 - 09/10/2021
+On the given dataset perform the following tasks :
+1. Clean the data
+2. Normalize any required columns
+3. Encode the categorical data [ use label encoding only for simplicity ]
+4. Divide the data into train test split after separating the features from label
+5. Train a decision tree [ Sk Learn ] and calculate its score using score() [ find in decision tree documentation of Sk Learn ]
+Note : Take survived column as your target variable.
+Deadline for the task is - 11/10/2021 at 23:59
