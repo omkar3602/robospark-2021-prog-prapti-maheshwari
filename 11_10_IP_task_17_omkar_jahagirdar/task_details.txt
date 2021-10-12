@@ -1,0 +1,4 @@
+Task 17 - 11/10/2021
+1. Shape detection: Images contains different shapes with different colors. Your task is to detect the shape by knowing the number of sides present on that shape. Draw the edges on the shape masked.
+Expected output: Print the number of sides of the shape, print the corresponding shape and save the image with edges drawn on it.
+Deadline for task is by 12/10/2021 before 23:59 PM
