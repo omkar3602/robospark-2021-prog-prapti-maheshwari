@@ -1,0 +1,13 @@
+Task 16 - 10/10/2021
+1. Perform all morphology and thresholding operations on image provided along with this message.
+Follow the following steps:
+a. Apply all morphology operations on the given image (morphology.jpg)
+b. Apply all thresholding techniques taught in today's session on the given image (thresholding.jpg)
+c. Save all image using cv2.imwrite() function and create a PR with your code along with output images in separate folder.
+2. Color masking: Apply color masking technique on the image provided (masking.jpg) and save the image as mentioned in part 1.
+Follow the following steps:
+a. Apply masking for Red color codes (you need to find these RGB lower and upper bond values) and save the image.
+b. Do the above for green color
+c. Do the above for blue color.
+Deadline for task is by 12/10/2021 before 23:59 PM
+3 files 
